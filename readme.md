@@ -1,6 +1,6 @@
 # Shopify Upgrade
 ## Overview
-Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from current Shopify store to new Shopify store n 4 simple steps with no extra effort spent. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Shopify store. Thus, you’ll be able to move your current Shopify store entities, including products, orders, customers, etc. to new Shopify store in a totally automated way.
+Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data [from current Shopify store to new Shopify store](https://www.shopping-cart-migration.com/shopping-cart-migration-options/1053-shopify-to-shopify-migration?utm_source=github.com&utm_medium=referral&utm_term=shopify-upgrade&utm_campaign=optimized-page) in 4 simple steps with no extra effort spent. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Shopify store. Thus, you’ll be able to move your current Shopify store entities, including products, orders, customers, etc. to new Shopify store in a totally automated way.
 
 ## What Data Can be Migrated?
 Cart2Cart will assist you in moving the following data entities from current Shopify to new Shopify store:
@@ -14,7 +14,7 @@ Cart2Cart will assist you in moving the following data entities from current Sho
 * **_Blog Posts_** (Title, Full Description, Short Description, Tags, SEO URL, Author, Post Redirects, Images).
 
 
-To get the full list of transferable entities, please check the table here.
+To get the full list of transferable entities, please check the table [here.](https://www.shopping-cart-migration.com/shopping-cart-migration-options/1053-shopify-to-shopify-migration?utm_source=github.com&utm_medium=referral&utm_term=shopify-upgrade&utm_campaign=optimized-page)
 
 ## What Are the Additional Migration Options?
 Users have the ability to choose some of the extra migration options to make the replatforming even more seamless and trouble-free:
@@ -32,10 +32,10 @@ Users have the ability to choose some of the extra migration options to make the
 * **Launch the Full migration** to start the Shopify database transfer to your new Shopify store.
 
 
-Watch our video tutorial to see how easy it is to automatically upgrade Shopify store with the help of the Cart2Cart migration tool.
+Watch our [video tutorial](https://www.youtube.com/watch?v=TzTfYDtgBjg?utm_source=github.com&utm_medium=referral&utm_term=shopify-upgrade&utm_campaign=optimized-page) to see how easy it is to automatically upgrade Shopify store with the help of the Cart2Cart migration tool.
 
 
-Check the detailed guide on Shopify upgrade migration.
+Check the detailed [guide on Shopify upgrade migration.](https://www.shopping-cart-migration.com/migration-guides/complete-shopify-to-shopify-migration-checklist-2022?utm_source=github.com&utm_medium=referral&utm_term=shopify-upgrade&utm_campaign=optimized-page)
 
 
 ## Why Choose Cart2Cart?
@@ -45,4 +45,4 @@ Check the detailed guide on Shopify upgrade migration.
 * **24/7 customer support** via live chat, phone, or ticket assistance.
 * **Flexible pricing policy.** The total migration cost depends on the amount of data you move to new Shopify store and the additional options you select.
 * **Free demo available.** Move a limited number of data from current Shopify to new Shopify store just within 30 minutes. No risk involved, no credit card required.
-* **Extensive FAQ section** that provides customers with the answers to the most common questions concerning Shopify migration.
+* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/22-shopify?utm_source=github.com&utm_medium=referral&utm_term=shopify-upgrade&utm_campaign=optimized-page)** that provides customers with the answers to the most common questions concerning Shopify migration.
